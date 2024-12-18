@@ -6,7 +6,9 @@ Funcionando em 16/11/2024
 
 Use por sua própria conta e risco. Não me responsabilizo por qualquer dano ou ban gerado.
 
-Link: [Fake Drop Generator]: <https://luigiloeck.github.io/fake-drop-generator/>
+Link: [Fake Drop Generator]
+
+[Fake Drop Generator]: <https://luigiloeck.github.io/fake-drop-generator/>
 
 ### Imagens
 
